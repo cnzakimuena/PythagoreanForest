@@ -1,5 +1,5 @@
 # PythagoreanForest
-The PythagoreanForest package is a MATLAB implementation of the Pythagorean Forest which displays learned decision tree models from Random Forest as Pythagoras trees.
+PythagoreanForest is a MATLAB implementation of the Pythagorean Forest which displays learned decision tree models from Random Forest as Pythagoras trees.
 
 The Pythagorean Forest is described in:
 
