@@ -4,8 +4,7 @@ function  call_PythagoreanForest()
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Name - call_PythagoreanForest()
 % Creation Date - 25th May 2020
-% Author - Charles Belanger Nzakimuena
-% Website - https://www.ibis-space.com/
+% Author - C. M. Belanger Nzakimuena
 %
 % Description - Function to load data and call Pythagorean Forest functions
 %
@@ -25,7 +24,7 @@ function  call_PythagoreanForest()
 % License - MIT
 %
 % Change History -
-%                   25th May 2020 - Creation by Charles Belanger Nzakimuena
+%                   25th May 2020 - Creation by C. M. Belanger Nzakimuena
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
