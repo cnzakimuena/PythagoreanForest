@@ -11,10 +11,6 @@ call_PythagoreanForest()
     <img src="figure.png" alt="example image" height="500">
 </p>
 
-Cite As
-
-[Nzakimuena, C. B. (2020). Automated analysis of retinal and choroidal OCT and OCTA images in AMD. Ecole Polytechnique, Montreal (Canada).](https://publications.polymtl.ca/5234/)
-
 ### References
 
 1. [Poličar, P. G. (2016). Pitagorejska drevesa za vizualizacijo klasifikacijskih in regresijskih dreves (Doctoral dissertation, Univerza v Ljubljani).](http://eprints.fri.uni-lj.si/3431/)
